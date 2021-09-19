@@ -1,6 +1,6 @@
 **Hi, my name is Farbod**. :wave:
 
-I'm currently a 2nd year Computer Science student at
+I'm currently a final year Computer Science BSc student at
 [University of Warwick](https://warwick.ac.uk/fac/sci/dcs). :computer:
 
 Most of my projects can be found here on GitHub.
