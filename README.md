@@ -1,9 +1,10 @@
-**Hi, my name is Farbod**. :wave:
+**Hi, I'm Farbod**. :wave:
 
-I'm currently a final year Computer Science BSc student at
-[University of Warwick](https://warwick.ac.uk/fac/sci/dcs). :computer:
+Currently, I work as a Software Engineer at 
+[Squarepoint Capital](https://www.squarepoint-capital.com/). :computer:
 
-Most of my projects can be found here on GitHub.
+Before that, I did my Computer Science BSc student at
+[University of Warwick](https://warwick.ac.uk/fac/sci/dcs). :mortar_board:
 
-You can also find out more about me and the things I've done on
-[my website](https://farbodsz.net/)!
+Most of my projects can be found here on GitHub. You can also find out more
+about me and the things I've done on [my website](https://farbodsz.net/)!
